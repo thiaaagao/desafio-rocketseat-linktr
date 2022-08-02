@@ -1,3 +1,11 @@
+<h1 align="center">Welcome to rocketseat-linktree 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/Thiaaagao" target="_blank">
+    <img alt="Twitter: Thiaaagao" src="https://img.shields.io/twitter/follow/Thiaaagao.svg?style=social" />
+  </a>
+</p>
+
 > Linktree with HTML 5 and CSS 3
 
 ## Author
