@@ -1,24 +1,54 @@
-/* @import url();
- */
-*{
-    margin: 0 auto;
-    
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');/* Importando google fonts */
+
+ :root { /* Color background */
+    --white-ligth: #FAF7FD; /* Var created "--white-ligth*/
+    --purple: #BB99DD;
+}
+
+*{ /* Apply all elements in page */
+    margin: 0;
+    padding: 0; /* No-larger extern or inside */
+    box-sizing: border-box; /* Elements in box */
+    text-decoration: none;
+}
+body,
+html{
+    font-family: "Poppins",sans-serif;
+    background: var(--white-ligth); /* Call var "--white-ligth" */
+
 }
 
 .container{
-    align-items: center;
+    width: 100vw;
+    height: 100vw;
+    /* Align items center */
+    display: flex; /* side by side */
+    align-items: center; /* align items in center, if they're next to each other, line up at the height!  */
+    justify-content: center; /* justify content in center */
 }
 
-.foto_perfil img{
-    margin: 1em;
+.container .tree-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.tree-container .avatar{
+    width: 213px; /* px img figma base 213px width */
+    height: 213px; /* px img figma base 213px height */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid var(--purple); /* border img avatar using var */
     border-radius: 50%;
 }
 
-.links{
-    display: inline-table;
-    list-style: none;
-    justify-content: center;
-    margin: 1em;
-    padding: 1em 0;
+.tree-container .avatar img{
+    width: 200px; /* figma img 200px width */
+    height: 200px; /*figma img 200px height */
 
+    border-radius: 50%; 
 }
