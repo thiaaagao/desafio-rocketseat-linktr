@@ -52,3 +52,43 @@ html{
 
     border-radius: 50%; 
 }
+
+.tree-container .insta-user{
+    margin-top: 15px;
+    color: var(--purple); /* color text using var (--purple) */
+
+
+}
+
+.tree-container .links-container{
+    margin-top: 15px;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.links-container .links{
+    margin-top: 20px;
+    width: 325px;
+
+    /* border in element */
+    border: 2px solid var(--purple); 
+    border-radius: 4px;
+
+    font-size: 16px;
+    font-weight: 600; 
+    
+    text-transform: uppercase; /* transform all text in UPPERCASE */
+    text-align: center;
+
+    padding: 12px 0; /* 12px up down and 0 left rigth */
+
+    transition: ease 0.3s; /* effect in element whit 0.3seconds */
+}
+
+/* hover = mouse tracking in element */
+.links-container .links:hover{
+    background: var(--purple);
+    color: var(--white-ligth)
+}
