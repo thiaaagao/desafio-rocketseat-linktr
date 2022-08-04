@@ -37,6 +37,7 @@ html{
     width: 213px; /* px img figma base 213px width */
     height: 213px; /* px img figma base 213px height */
 
+    margin-top: 1em; 
     display: flex;
     align-items: center;
     justify-content: center;
