@@ -6,7 +6,7 @@
 }
 
 *{ /* Apply all elements in page */
-    margin: 0;
+    margin: 0 auto;
     padding: 0; /* No-larger extern or inside */
     box-sizing: border-box; /* Elements in box */
     text-decoration: none;
@@ -20,7 +20,6 @@ html{
 
 .container{
     width: 100vw;
-    height: 100vw;
     /* Align items center */
     display: flex; /* side by side */
     align-items: center; /* align items in center, if they're next to each other, line up at the height!  */
@@ -49,7 +48,7 @@ html{
 .tree-container .avatar img{
     width: 200px; /* figma img 200px width */
     height: 200px; /*figma img 200px height */
-
+    margin: 0 auto;
     border-radius: 50%; 
 }
 
@@ -90,5 +89,26 @@ html{
 /* hover = mouse tracking in element */
 .links-container .links:hover{
     background: var(--purple);
-    color: var(--white-ligth)
+    color: var(--white-ligth);
+}
+
+.tree-container .socials-container{
+    margin-top: 68px;
+
+    display: grid; /* grid  */
+    grid-template-columns: repeat(5, 1fr);/* template do grid = 5 * 1fr (1fr fraction) */
+
+    gap: 29px; /* space inside icons */
+
+}
+
+.socials-container .social{
+    transform: scale(0.9); /* scale animation */
+    transition: ease 0.3s;
+
+}
+.socials-container .social:hover{
+    transform: scale(1);
+
+
 }
