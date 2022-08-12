@@ -19,7 +19,8 @@
 * Github: [@Thiaaagao](https://github.com/Thiaaagao)
 * LinkedIn: [@rdes-thiago201](https://linkedin.com/in/rdes-thiago201)
 
-
+<h1 align="center"> Screenshots 📷 </h1>
+<p>
 <img alt="desktop" src="https://github.com/thiaaagao/desafio-rocketseat-linktr/blob/master/img/Desktop.png" />
 <img alt="mobile" src="https://github.com/thiaaagao/desafio-rocketseat-linktr/blob/master/img/Mobile.png" />
-
+</p>
