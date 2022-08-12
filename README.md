@@ -21,3 +21,5 @@
 
 
 <img alt="desktop" src="https://github.com/thiaaagao/desafio-rocketseat-linktr/blob/master/img/Desktop.png" />
+<img alt="mobile" src="https://github.com/thiaaagao/desafio-rocketseat-linktr/blob/master/img/Mobile.png" />
+
