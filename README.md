@@ -15,9 +15,6 @@
 ## Author
 
 👤 **Thiago Rodrigues**
-<p> 
-<a href="https://github.com/thiaaagao" target="_blank">Profile</a>
-</p>
 
 * Github: [@Thiaaagao](https://github.com/Thiaaagao)
 * LinkedIn: [@rdes-thiago201](https://linkedin.com/in/rdes-thiago201)
@@ -25,9 +22,6 @@
 ## Contributions
 
 👤 **Bianca Miranda**
-<p>
-<a href="https://github.com/byabiabya" target="_blank">Profile</a>
-</p>
 
 * Github: [@Byabiabya](https://github.com/byabiabya)
 * LinkedIn: [@Biamr](https://linkedin.com/in/biamr)
