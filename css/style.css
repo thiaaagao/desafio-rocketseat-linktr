@@ -85,6 +85,8 @@ html{
     padding: 12px 0; /* 12px up down and 0 left rigth */
 
     transition: ease 0.3s; /* effect in element whit 0.3seconds */
+
+    color: #8945cc;
 }
 
 /* hover = mouse tracking in element */
