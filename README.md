@@ -8,12 +8,18 @@
 
 > Challenge Linktree with HTML 5 and CSS 3
 <p>
-  <a href="https://efficient-sloth-d85.notion.site/Desafio-Social-Tree-a4008e467a3248c4b05c97cf78aea44f#8e29701d16514d29b49558efbc1752c0" target="_blank">Challenge       Rocketseat
+  <a href="https://thiaaagao.github.io/desafio-rocketseat-linktr/" target="_blank">Challenge       Rocketseat
   </a>
 </p>
 ## Author
 
 👤 **Thiago Rodrigues**
+ <a href="https://github.com/thiaaagao" target="_blank"></a>
+
+## Contributions
+
+👤 **Bianca Miranda**
+ <a href="https://github.com/byabiabya" target="_blank"></a>
 
 * Twitter: [@Thiaaagao](https://twitter.com/Thiaaagao)
 * Github: [@Thiaaagao](https://github.com/Thiaaagao)
