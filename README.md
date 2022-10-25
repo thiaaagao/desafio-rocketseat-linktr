@@ -11,6 +11,7 @@
   <a href="https://thiaaagao.github.io/desafio-rocketseat-linktr/" target="_blank">Challenge       Rocketseat
   </a>
 </p>
+
 ## Author
 
 👤 **Thiago Rodrigues**
